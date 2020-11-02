@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Demo 3
+Hello everyone! This week we completed our first portfolio's, and here I would like to compile a few tips that were useful to me as I did this assignment. The main issue that I encountered was that I couldnt figure out how to add in a theme, and then make my portfolio look more like a website. Below are a few trouble shooting options that helped me.
 
-You can use the [editor on GitHub](https://github.com/JillFennell/demo3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The first issue I ran into was that I couldnt figure out how to make my code stand out from the rest of the text. The solution was to start working in a new cell and have the cell type as "code" First, I made 'code' cells in a jupyter notebook that I wanted to bring into my repo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+next, I imported the code as a markdown download from the jupyter notebook.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JillFennell/demo3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Here is what the code looks like when you import it](demo 3 submission.md.webarchive)
