@@ -15,8 +15,10 @@ The first issue I faced was applying a theme to my repo. You can find the link [
 The next issue I ran into was that I couldnt figure out how to make my code stand out from the rest of the text. The solution was to start working in a new cell and have the cell type as "code"
 First, I made 'code' cells in a jupyter notebook that I wanted to bring into my repo. 
 
-next, I imported the code as a markdown download from the jupyter notebook.
+Next, I imported the code as a markdown download from the jupyter notebook.
 
 [Here is what the code looks like when you import it](Demo_3.md.webarchive) 
+
+Thank you for reading, happy coding!
 
 
