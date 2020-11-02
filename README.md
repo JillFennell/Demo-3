@@ -9,3 +9,5 @@ The first issue I ran into was that I couldnt figure out how to make my code sta
 First, I made 'code' cells in a jupyter notebook that I wanted to bring into my repo. 
 
 next, I imported the code as a markdown download from the jupyter notebook.
+
+[Here is what the code looks like when you import it](demo 3 submission.md.webarchive) 
