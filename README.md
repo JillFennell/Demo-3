@@ -17,7 +17,7 @@ First, I made 'code' cells in a jupyter notebook that I wanted to bring into my 
 
 Next, I imported the code as a markdown download from the jupyter notebook.
 
-[Here is what the code looks like when you import it](Demo_3.md.webarchive) 
+[Here is what the code looks like when you import it](Demo_3.ipynb) 
 
 Thank you for reading, happy coding!
 
